@@ -15,14 +15,23 @@ If any IP is found, it is added to results.csv that will be created and placed i
 Black Lists used:
 
 AlienVault
+
 BitcoinNodes
 
 BlockListde
+
 BruteForceBlocker
+
 DarkListde
+
 FireHoleLevel1
+
 QwestBlockList
+
 SpamhauseDrop
+
 SpamhauseT
+
 TWCBlockList
+
 VerizonBlockList
